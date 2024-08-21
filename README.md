@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SabeeJeedorh
+- 👋 Hi, I’m @Sabee'a Jeedorh
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning front end engineering
 
